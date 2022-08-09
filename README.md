@@ -1,6 +1,5 @@
 # NetPractice
 
-
 Project has the purpose of correctly configuring simple networks Manipulating the IPs and Addressing Mask.
 The network configuration is done through the IPv4 Protocol!
 
@@ -19,21 +18,20 @@ Ele é responsável por endereçar e encaminhar os pacotes que trafegam pela int
 Esse Protocolo é estabelecido na Camada de rede do Modelo OSI e Suíte TCP/IP;
 
 ## Badge
-<img src="philo/img/netpractice.png">
+<img src="./img/netpractice.png">
 
 ## My grade
-<img src="philo/img/score.png">
+<img src="./img/score.png">
 
 ## Skills
 Rigor <br>
 Network & system administration 
 
 ## Flowchat:
-<img src="philo/img/philo.png">
-<img src="philo/img/classesIP.png">
-<img src="philo/img/ipv4.png">
-<img src="philo/img/mask.png">
-<img src="philo/img/subredes.png">
+<img src="./img/classesIP.png">
+<img src="./img/ipv4.png">
+<img src="./img/mask.png">
+<img src="./img/subredes.png">
 
 ### Made with: <br/>
 ### Jorge Alves
