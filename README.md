@@ -20,9 +20,9 @@ Esse Protocolo é estabelecido na Camada de rede do Modelo OSI e Suíte TCP/IP;
 __________________________________________________________________________________________
 
 ## CALCULOS:
-```bash
 
-com o último octeto da máscara descubro de quanto em quanto variam as sub-redes:
+```bash
+Com o último octeto da máscara descubro de quanto em quanto variam as sub-redes:
 
 255 destinado ao host(a quantidade de aparelhos que posso conectar). 
 Porêm o 1º e o último não são permitidos (Primeiro IP é o endereço da sub-rede e o último do broadcast).
@@ -149,7 +149,7 @@ ________________________________________________________________________________
 -------------------------------------------------------------------------------------------
 
  	
-asso 1: N° sub-redes (2^n sendo n=1) 2^16  =  (6556)
+passo 1: N° sub-redes (2^n sendo n=1) 2^16  =  (6556)
 passo 2: subredes variam de                =  (256)    a  (256)
 passo 3: escreva subredes                  =  (0-255)     (256-511)
 passo 4: 1° endereço é a subrede           = 	(0)      ,  (256)
@@ -171,9 +171,8 @@ passo 2: subredes variam de                 = (256)     a   (256)
 passo 3: escreva subredes                   = (0-255)       (256-511)
 passo 4: 1° endereço é a subrede            =	(0)       ,   (256)
   Ultimo o broadcast                        =	(255)     ,   (510)
-  Segundo/penultimo hosts validos           =  (1-254)  ,   (257-510)	
- 	  
- ´´´
+  Segundo/penultimo hosts validos           =  (1-254)  ,   (257-510)	  
+```
 
 ## Badge
 <img src="./img/netpractice.png">
